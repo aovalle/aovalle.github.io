@@ -6,25 +6,9 @@
 
 <head>
     {% include head.html %}
-
-    <!-- HEADER IMAGE -->
-    <!-- <center>
-        <span class="main-header-image">
-            <a href="/"><img src="/images/header/clean-and-simple-header.jpg"></a>
-        </span>
-    </center> -->
-    <br>
-    <center>
-        <span class="main-header-image">
-            <h1 style="font-weight:100; font-kerning:normal"><a href="/">{{ site.title }}</a></h1>
-        </span>
-    </center>
-
-    <!-- NAVIGATION -->
-    <br>
     {% include navigation.html %}
 </head>
-
+ 
 <!-- BODY -->
 <body id="post-index">
     {% include browser-upgrade.html %}
@@ -32,15 +16,15 @@
     <!-- MAIN -->
     <div id="main" role="main">
       {{ content }}
-    </div>
+    </div>       
 </body>
 
-<!-- FOOTER -->
-<footer>
+<!-- FOOTER -->  
+<footer>  
     <div class="footer-wrapper">
         <footer role="contentinfo">
             {% include footer.html %}
         </footer>
-    </div>
+    </div>   
 </footer>
 </html>

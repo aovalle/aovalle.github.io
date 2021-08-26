@@ -10,16 +10,7 @@ Slate+Simple is a light-on-dark theme that features crisp typography and include
 <img src="slate+simple_screenshot.png">
 </figure>
 
-YAML headers include support for:
+Theme by Benjamin J. Radford, 2017
 
-* title
-* subtitle
-* author
-* featured-image
-* date-string
-* categories
-* tags
-
-Additionally, Slate+Simple supports [MathJax](https://www.mathjax.org) for beautiful equations and [Font Awesome](http://fontawesome.io/icons/). LaTeX math wrapped in `$$` will automatically compile to in-line or block images of formatted equations. Font awesome icons are included with the `i` tag. For example: `<i class='fa fa-github-alt'></i>`.
 
 
