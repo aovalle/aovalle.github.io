@@ -29,14 +29,15 @@ perception and control
   [[PDF](https://direct.mit.edu/isal/proceedings-pdf/isal/33/50/1929969/isal_a_00411.pdf)] 
   <!-- [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-<!-- - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Predictive Control Using Learned State Space Models via Rolling Horizon Evolution**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Alvaro Ovalle**, Simon M. Lucas
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Bridging the Gap Between AI Planning and Reinforcement Learning Workshop. **ICAPS 2021**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
- -->
+  [[PDF](https://arxiv.org/pdf/2106.13911)] 
+  <!-- [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
+
 <!-- - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
