@@ -35,7 +35,7 @@ perception and control
   <br>
   Bridging the Gap Between AI Planning and Reinforcement Learning Workshop. **ICAPS 2021**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2106.13911)] 
+  [[PDF](https://arxiv.org/pdf/2106.13911)] [[Poster](./posters/SSM-RHE-PRL.pdf)]
   <!-- [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
 
 <!-- - **Meta-Transfer Learning for Few-Shot Learning**
