@@ -1,7 +1,7 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-publications/_posts/.Rhistory
-images/.DS_Store
-.Rhistory
+_site
+.sass-cache
+Gemfile.lock
+*.gem
 .DS_Store
+.jekyll-cache
+git-update.sh
