@@ -1,0 +1,54 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <!-- <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
+            <script language="JavaScript" type="text/javascript">
+            var part1 = "a.ovalle";
+            var part2 = Math.pow(2,6);
+            var part3 = String.fromCharCode(part2);
+            var part4 = "qmul.ac.uk";
+            var part5 = part1 + String.fromCharCode(part2) + part4;
+            document.write("<li><a class='u-email' href=" + "mai" + "lto" + ":" 
+            + part5 + ">" + part1 + part3 + part4 + "</a></li>");
+            </script>
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2 social-icons">
+        {% if site.google_scholar %}
+          <a href="{{ site.google_scholar}}" target="_blank">
+            <i class="ai ai-google-scholar" style="font-size:1rem"></i>
+          </a>
+        {% endif %}
+        {% if site.github_link %}   
+          <a href="{{ site.github_link }}" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        {% endif %}
+        <!--{%- include social.html -%}-->
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
