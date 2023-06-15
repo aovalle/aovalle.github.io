@@ -12,7 +12,6 @@ permalink: /publications/
 - Ovalle, A. (2021). An organismic inspired strategy for adaptive control. In *ALIFE 2021: The 2021 Conference on Artificial Life.* MIT Press.
   <br>
   [[PDF](https://direct.mit.edu/isal/proceedings-pdf/isal/33/50/1929969/isal_a_00411.pdf)] [[Talk]](https://www.youtube.com/watch?v=iVH5qDBwlfo)
-  <!-- [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - Ovalle, A., & Lucas, S. M. (2021). Predictive Control Using Learned State Space Models via Rolling Horizon Evolution. ICAPS 2021: *The International Conference on Automated Planning and Scheduling,* Bridging the Gap Between AI Planning and Reinforcement Learning Workshop.
   <br>
