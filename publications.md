@@ -16,7 +16,7 @@ permalink: /publications/
 
 - Ovalle, A., & Lucas, S. M. (2021). Predictive Control Using Learned State Space Models via Rolling Horizon Evolution. ICAPS 2021: *The International Conference on Automated Planning and Scheduling,* Bridging the Gap Between AI Planning and Reinforcement Learning Workshop.
   <br>
-  [[PDF](https://arxiv.org/pdf/2106.13911)] [[Poster](./posters/SSM-RHE-PRL.pdf)]
+  [[PDF](https://arxiv.org/pdf/2106.13911)] [[Poster](./assets/posters/SSM-RHE-PRL.pdf)]
 
 - Ovalle, A., & Lucas, S. M. (2020). Modulation of viability signals for self-regulatory control. In *International Workshop on Active Inference* (pp. 101-113). Springer.
 <br>
