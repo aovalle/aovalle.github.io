@@ -13,8 +13,8 @@ My long-term research goal is to understand more about the general principles un
 <br/>
 
 - The energetics of information processing: connections between non-equilibrium statistical mechanics and information theory, and the implications for the perception action loop (e.g. control as (local) entropy reduction, work extraction, predictive efficiency, and more).
-- Information, value, and semiotics: if we consider that information is a crucial resource for an organism trying to achieve a goal or maintain a particular state, what are the mechanisms the organism uses to extract information relevant for its purposes.
-- The origins of agency and autonomy: these constructs have been intuitively employed to distinguish particular entities, such as living beings, from other kind of systems that exhibit passive dynamics. Formalizing these definitions to help us to understand several issues. For instance, how normativity and goal-directedness arise to confer meaning to the agent's activity; or whether it is possible to differentiate, within a process, an agent from its surroundings.
+- Information, value, and semiotics: if we consider that information is a crucial resource for an organism trying to achieve a goal or maintain a particular state, what are the mechanisms the organism uses to extract information relevant to its purposes.
+- The origins of agency and autonomy: these constructs have been intuitively employed to distinguish particular entities, such as living beings, from other kinds of systems that exhibit passive dynamics. Formalizing these definitions to help us to understand several issues. For instance, how normativity and goal-directedness arise to confer meaning to the agent's activity; or whether it is possible to differentiate, within a process, an agent from its surroundings.
 
 <!-- 
 

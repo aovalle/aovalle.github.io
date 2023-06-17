@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+- Ovalle, A. & Lucas, S. M. (2023 in preparation). An information-theoretic criterion for world modelling in agents based on predicted relevance.
+<br>
+[[Poster]()]
+
 - Bamford, C., & Ovalle, A. (2021). Generalising Discrete Action Spaces with Conditional Action Trees. In *2021 IEEE Conference on Games (CoG)* (pp. 1-8). IEEE.
 <br>
 [[PDF](https://ieee-cog.org/2021/assets/papers/paper_89.pdf)] [[Talk]](https://video.itu.dk/video/71784047/generalising-discrete-action-spaces)
