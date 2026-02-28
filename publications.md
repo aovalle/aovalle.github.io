@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-- Ovalle, A. & Lucas, S. M. (2023 in preparation). An information-theoretic criterion for world modelling in agents based on predicted relevance.
+- Ovalle, A. (2023). Learning, Prediction and Planning with Approximate Forward Models. *PhD dissertation*. Queen Mary University of London
 <br>
-[[Poster]()]
+[[PDF](./assets/dissertations/Learning_Prediction_and_Planning_with_Approximate_Forward_Models-Alvaro_Ovalle-PhD_dissertation_2023.pdf)]
 
 - Bamford, C., & Ovalle, A. (2021). Generalising Discrete Action Spaces with Conditional Action Trees. In *2021 IEEE Conference on Games (CoG)* (pp. 1-8). IEEE.
 <br>
@@ -31,4 +31,4 @@ permalink: /publications/
 
 - Ovalle, A. (2016). Deep reinforcement learning variants of multi-agent learning algorithms. *MSc dissertation*. University of Edinburgh.
 <br>
-[[PDF](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf)]
+[[PDF](./assets/dissertations/Deep_RL_variants_of_multi-agent_learning_algorithms-Alvaro_Ovalle-MSc_thesis_2016.pdf)]
