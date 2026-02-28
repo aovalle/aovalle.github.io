@@ -7,17 +7,19 @@ layout: home
 
 <div style='text-align: justify;'>
 
-My long-term research goal is to understand more about the general principles underlying autonomous adaptive behavior and its emergence. I am currently focused on modeling the dynamics that characterize the interaction between an agent and its medium (e.g. the perception-action loop). During my PhD, I have used machine learning, probabilistic and information-theoretic tools to develop reinforcement learning schemes that the agents use to build internal representations to help mediate their interaction with the world. Other interconnected research interests include:
+
+My long-term research goal is to gain a deeper understanding of the principles that govern life and, more generally, any class of systems that appear to self-regulate. I approach this problem by studying the interaction between an _agent_ and its environment as an integrated whole (e.g., the perception-action loop). During my PhD, I used machine learning, probabilistic, and information-theoretic tools to develop learning schemes that enable agents to build internal representations and world models to mediate their interaction with their environments, integrating these models with planning and reinforcement learning algorithms.
+
+Other interconnected research interests include:
+
 
 </div>
 <br/>
 
-- The energetics of information processing: connections between non-equilibrium statistical mechanics and information theory, and the implications for the perception action loop (e.g. control as (local) entropy reduction, work extraction, predictive efficiency, and more).
-- Information, value, and semiotics: if we consider that information is a crucial resource for an organism trying to achieve a goal or maintain a particular state, what are the mechanisms the organism uses to extract information relevant to its purposes.
-- The origins of agency and autonomy: these constructs have been intuitively employed to distinguish particular entities, such as living beings, from other kinds of systems that exhibit passive dynamics. Formalizing these definitions to help us to understand several issues. For instance, how normativity and goal-directedness arise to confer meaning to the agent's activity; or whether it is possible to differentiate, within a process, an agent from its surroundings.
+- **The nature of information-processing**: Information plays a central role in understanding living systems and agents more generally. It has structure and comes in different forms. Not all information is equivalent for an organism; some of it is semantically meaningful, and some is more valuable or relevant than other kinds. In this sense, information serves as a resource required for prediction, decision-making, and behavior. I am particularly interested in using an information-processing lens to characterize the internal organization of an agent and to interpret its dynamics in terms of information and its transformations.
 
-<!-- 
 
-if we consider that (1) information is a crucial resource for an organism but (2) it is exposed to more information it can sense or process, and (3) it is constrained by information processing costs, then what are the information acquisition mechanisms the organism uses to extract relevant information for a particular context. Moreover
+- **The energetics of agent-environment coupling**: Organisms operate far from thermodynamic equilibrium, continuously harvesting and consuming energy to sustain their identities. Novel developments in stochastic thermodynamics, together with their growing connections to information theory, provide new tools for understanding the energetic constraints shaping an agent's interactions.
 
--->
+
+- **Biology of cognition**: In cognitive science and the philosophy of mind and life, concepts such as agency, autonomy, adaptivity, precariousness, closure, selfhood, and autopoiesis have been developed to understand what makes a system a genuine agent. To what extent can these notions be formalized? How do they arise from underlying biological organization? Are they graded properties that apply to a wider class of systems?
